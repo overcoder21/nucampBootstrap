@@ -1,20 +1,17 @@
 {
-  "name": "nucampsite",
+  "name": "bootstrapgrid",
   "version": "1.0.0",
-  "description": "This is the website for the fictional campsite review site Nucamp",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "lite": "lite-server",
-    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Greg Jabonete",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  },
   "dependencies": {
-    "@popperjs/core": "^2.9.2",
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
   }
 }
